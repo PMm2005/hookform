@@ -66,7 +66,7 @@ function RegistrationForm() {
       [name]: errorMsg,
     }));
   };
-
+//212
   return (
     <div>
       <h1>Registration Form</h1>
